@@ -1,0 +1,5 @@
+{
+  "project_url": "https://cordis.europa.eu/project/id/{id_project}/en?format=xml",
+  "topic_url": "https://ec.europa.eu/info/funding-tenders/opportunities/data/topicDetails/{topic_code}.json",
+  "topics_project_url": "https://ec.europa.eu/info/funding-tenders/opportunities/api/topicProjectsList.json?topicId={topic_id}"
+}

@@ -1,0 +1,10 @@
+/build/
+/dist/
+/EU_CORDIS_Scraper.egg-info/
+/venv/
+/.idea/.gitignore
+/.idea/EU_CORDIS_Scraper.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
